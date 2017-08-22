@@ -1,0 +1,25 @@
+body {
+  width: 100%;
+  background-color: white;;
+}
+
+.top {
+height: 20vh;
+background-color: #444444;
+
+}
+
+.content {
+  background-color: #EFEFEF;
+  margin: 0 auto;
+  width: 75%;
+  height: 70vh;
+}
+
+.footer {
+  background-color: #000;
+  margin: 0 auto;
+  width: 75%;
+  height: 20vh;
+
+}

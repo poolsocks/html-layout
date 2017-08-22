@@ -1,0 +1,57 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  width: 100%;
+  font-family: sans-serif;
+}
+
+.smallheight{
+  height: 14vh;
+}
+
+.grey {
+  background-color: #D8D8D8;
+  position: relative;
+}
+
+.bluebox {
+  position: absolute;
+  top: 35px;
+  left: 20px;
+  width: 75px;
+  height: 75px;
+  background-color: #4A90E2;
+}
+
+.white {
+  height: 30vh;
+  background-color: white;
+}
+
+.blue {
+  background-color: #4A90E2;
+}
+
+.green {
+  background-color: #50E3C2;
+}
+
+.lime {
+  background-color: #B8E986;
+}
+
+.yellow {
+  background-color: #F8E71C;
+}
+
+.span-text{
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  font-size: 2.5em;
+}
